@@ -2,5 +2,5 @@
 cf's first git repository
 
 insert something...
-hello,github!
+hello,my github!
 add something...
